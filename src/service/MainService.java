@@ -48,7 +48,7 @@ public class MainService {
 			e.printStackTrace();
 		}
 		
-		
+		//new function as comment
 		
 		try {
 			System.out.println(Arrays.toString(coinFlip(10000000)));
